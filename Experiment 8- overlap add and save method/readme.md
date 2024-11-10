@@ -1,4 +1,4 @@
-Theory: 
+# Theory: 
 
 Both the Overlap-Save and Overlap-Add methods are techniques used to compute the 
 convolution of long signals using the Fast Fourier Transform (FFT). The direct convolution of 
