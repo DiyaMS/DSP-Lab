@@ -1,4 +1,4 @@
-Theory: 
+# Theory: 
 
 Circular convolution is a mathematical operation that is like linear convolution                
 but is performed in a periodic or circular manner. This is particularly useful in discrete
