@@ -1,4 +1,4 @@
-Theory:
+# Theory:
 Discrete Fourier Transform (DFT)
  The Discrete Fourier Transform (DFT) is a mathematical transformation used to analyze 
 the frequency content of discrete signals. For a sequence x[n] of length N, the DFT is defined 
