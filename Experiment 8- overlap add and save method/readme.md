@@ -25,7 +25,9 @@ block is then zero-padded to a size of , where  is the length of the filter.
 are zero-padded, the convolution produces valid linear results, but the output blocks overlap. 
 3. Overlap and Add: After convolution, the results of each block overlap by samples. These 
 overlapping regions are added together to form the final output. 
- 
+ # Observation
+ ![image](https://github.com/user-attachments/assets/e3ae81b2-19a5-4772-a5a6-a5c890c3faab)
+
  
  
  
