@@ -15,3 +15,19 @@ behaviour, and convolution can be used to determine the output of the system
 given a known input.  
 Image Processing: Convolution is used for tasks like edge detection, blurring, 
 and sharpening images. 
+
+# Observation
+
+a) Enter first Sequence [ 1 2 1 1] <br>
+Enter second Sequence [1 1 1 1]<br>
+The convoluted sequence is:<br>
+1 3 4 5 4 2 1
+
+![image](https://github.com/user-attachments/assets/6851ee34-4785-46a0-b340-cd982f2b39eb)
+
+b) Enter first Sequence [1 2 1 2]<br>
+Enter second Sequence [3 2 1 2]<br>
+The convoluted sequence is:<br>
+3 8 8 12 9 4 4
+![image](https://github.com/user-attachments/assets/5e3d422d-94f7-48d7-a5d8-fca1e7dcad45)
+
