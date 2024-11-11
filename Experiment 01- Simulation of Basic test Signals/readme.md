@@ -40,10 +40,7 @@ decay is determined by the constant a.
 • A signal that is zero for all negative time values and one for positive time values.  
 • Mathematically u(t) ={ 1 ; t≥0, 
                                               0 ; t<0} 
- # Observation
-
- ![image](https://github.com/user-attachments/assets/2921b06c-a203-459b-aeb3-b4dbbc86efd0)
-
+ 
  
  
  

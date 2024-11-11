@@ -14,6 +14,3 @@ Applications:
 • Communication systems  
 • Image processing  
 • Medical imaging 
-
-# Observation
-![image](https://github.com/user-attachments/assets/81a4a053-9102-45d7-b6db-cfda5857b585)

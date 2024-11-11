@@ -24,11 +24,3 @@ corresponds to circular convolution in the frequency domain:
 DFT{x1[n]⋅x2[n]} =  𝟏
  𝑵
  DFT{x1[n]}⊛DFT{x2[n]}
-
-
-# Observation
-
-![image](https://github.com/user-attachments/assets/fd49bf61-1560-44a4-b2be-ab00c060aef2)
-![image](https://github.com/user-attachments/assets/5e2304f7-97f0-40c0-937b-45fa0f636075)
-
-
