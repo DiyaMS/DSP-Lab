@@ -1,1 +1,0 @@
-%Familiarization of DSP Hardware
