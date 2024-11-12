@@ -1,13 +1,13 @@
-## Theory: 
+# Theory: 
 
 Linear convolution is a mathematical operation used to combine two signals to produce 
 a third signal. It's a fundamental operation in signal processing and systems theory. 
  
-# Mathematical Definition:  
+## Mathematical Definition:  
  Given two signals, x(t) and h(t), their linear convolution is defined as:  
                     y(t) = x(t) * h(t) = ∫ 𝐱(𝛕)𝐡(𝐭−𝛕) 𝐝𝛕  
    
-Applications:  
+## Applications:  
 Filtering: Convolution is used to filter signals, removing unwanted frequencies 
 or noise.  
 System Analysis: The impulse response of a system completely characterizes its 
