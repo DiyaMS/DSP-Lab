@@ -1,8 +1,8 @@
-Theory: 
+# Theory: 
 
-Performing Linear Convolution Using Circular Convolution  
+## Performing Linear Convolution Using Circular Convolution  
 
-Method:  
+### Method:  
 1. Zero-Padding:  
 o Pad both sequences x[n] and h[n] with zeros to a length of at least 2N-1, 
 where N is the maximum length of the two sequences. This ensures that the 
@@ -26,9 +26,9 @@ will be
 o Truncate the result to [4, 13, 21, 15].  
 This result is the same as the linear convolution of x[n] and h[n].  
  
-Performing Circular Convolution Using Linear Convolution  
+## Performing Circular Convolution Using Linear Convolution  
 
-Method:  
+### Method:  
 1. Zero-Padding:  
 o Pad both sequences x[n] and h[n] to a length of at least 2N-1, where N is 
 the maximum length of the two sequences.  
